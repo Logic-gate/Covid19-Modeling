@@ -1,0 +1,572 @@
+-------------------------------
+Here's the Input Data:
+- - - - - - - - - - - - - - - - 
+Numper of Sample: 1000
+X & Y limites:  30 ,  30
+Distance required for Contamination: 1.5
+Moving Sample 0.1
+Number Of Beds 3.0
+-------------------------------
+Day: 0
+- - - - - - - - - - - - - - - - 
+Healthy         999
+Covid-19(+)       1
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 0, dtype: object
+-------------------------------
+Day: 1
+- - - - - - - - - - - - - - - - 
+Healthy         999
+Covid-19(+)       1
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 1, dtype: object
+-------------------------------
+Day: 2
+- - - - - - - - - - - - - - - - 
+Healthy         992
+Covid-19(+)       8
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 2, dtype: object
+-------------------------------
+Day: 3
+- - - - - - - - - - - - - - - - 
+Healthy         986
+Covid-19(+)      14
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 3, dtype: object
+-------------------------------
+Day: 4
+- - - - - - - - - - - - - - - - 
+Healthy         980
+Covid-19(+)      20
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 4, dtype: object
+-------------------------------
+Day: 5
+- - - - - - - - - - - - - - - - 
+Healthy         964
+Covid-19(+)      36
+Hospitalized      0
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 5, dtype: object
+-------------------------------
+Day: 6
+- - - - - - - - - - - - - - - - 
+Healthy         934
+Covid-19(+)      65
+Hospitalized      1
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 6, dtype: object
+-------------------------------
+Day: 7
+- - - - - - - - - - - - - - - - 
+Healthy         891
+Covid-19(+)     107
+Hospitalized      2
+Cured             0
+Self Cured        0
+Dead              0
+Limbo             0
+Total Cured       0
+Name: 7, dtype: object
+-------------------------------
+Day: 8
+- - - - - - - - - - - - - - - - 
+Healthy         825
+Covid-19(+)     169
+Hospitalized      5
+Cured             0
+Self Cured        0
+Dead              1
+Limbo             0
+Total Cured       0
+Name: 8, dtype: object
+-------------------------------
+Day: 9
+- - - - - - - - - - - - - - - - 
+Healthy         740
+Covid-19(+)     247
+Hospitalized     10
+Cured             0
+Self Cured        0
+Dead              3
+Limbo             0
+Total Cured       0
+Name: 9, dtype: object
+-------------------------------
+Day: 10
+- - - - - - - - - - - - - - - - 
+Healthy         645
+Covid-19(+)     331
+Hospitalized     17
+Cured             0
+Self Cured        0
+Dead              7
+Limbo             0
+Total Cured       0
+Name: 10, dtype: object
+-------------------------------
+Day: 11
+- - - - - - - - - - - - - - - - 
+Healthy         493
+Covid-19(+)     468
+Hospitalized     26
+Cured             0
+Self Cured        0
+Dead             13
+Limbo             0
+Total Cured       0
+Name: 11, dtype: object
+-------------------------------
+Day: 12
+- - - - - - - - - - - - - - - - 
+Healthy         336
+Covid-19(+)     603
+Hospitalized     39
+Cured             0
+Self Cured        0
+Dead             22
+Limbo             0
+Total Cured       0
+Name: 12, dtype: object
+-------------------------------
+Day: 13
+- - - - - - - - - - - - - - - - 
+Healthy         200
+Covid-19(+)     709
+Hospitalized     56
+Cured             0
+Self Cured        0
+Dead             35
+Limbo             0
+Total Cured       0
+Name: 13, dtype: object
+-------------------------------
+Day: 14
+- - - - - - - - - - - - - - - - 
+Healthy         103
+Covid-19(+)     768
+Hospitalized     76
+Cured             0
+Self Cured        0
+Dead             53
+Limbo             0
+Total Cured       0
+Name: 14, dtype: object
+-------------------------------
+Day: 15
+- - - - - - - - - - - - - - - - 
+Healthy          46
+Covid-19(+)     780
+Hospitalized     98
+Cured             0
+Self Cured        1
+Dead             75
+Limbo             0
+Total Cured       1
+Name: 15, dtype: object
+-------------------------------
+Day: 16
+- - - - - - - - - - - - - - - - 
+Healthy          19
+Covid-19(+)     758
+Hospitalized    120
+Cured             0
+Self Cured        1
+Dead            102
+Limbo             0
+Total Cured       1
+Name: 16, dtype: object
+-------------------------------
+Day: 17
+- - - - - - - - - - - - - - - - 
+Healthy           9
+Covid-19(+)     713
+Hospitalized    141
+Cured             0
+Self Cured        4
+Dead            133
+Limbo             0
+Total Cured       4
+Name: 17, dtype: object
+-------------------------------
+Day: 18
+- - - - - - - - - - - - - - - - 
+Healthy           4
+Covid-19(+)     661
+Hospitalized    161
+Cured             0
+Self Cured        6
+Dead            168
+Limbo             0
+Total Cured       6
+Name: 18, dtype: object
+-------------------------------
+Day: 19
+- - - - - - - - - - - - - - - - 
+Healthy           2
+Covid-19(+)     604
+Hospitalized    179
+Cured             0
+Self Cured        9
+Dead            206
+Limbo             0
+Total Cured       9
+Name: 19, dtype: object
+-------------------------------
+Day: 20
+- - - - - - - - - - - - - - - - 
+Healthy           2
+Covid-19(+)     541
+Hospitalized    195
+Cured             0
+Self Cured       15
+Dead            247
+Limbo             0
+Total Cured      15
+Name: 20, dtype: object
+-------------------------------
+Day: 21
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)     468
+Hospitalized    209
+Cured             0
+Self Cured       31
+Dead            291
+Limbo             0
+Total Cured      31
+Name: 21, dtype: object
+-------------------------------
+Day: 22
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)     396
+Hospitalized    221
+Cured             0
+Self Cured       45
+Dead            337
+Limbo             0
+Total Cured      45
+Name: 22, dtype: object
+-------------------------------
+Day: 23
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)     318
+Hospitalized    231
+Cured             0
+Self Cured       65
+Dead            385
+Limbo             0
+Total Cured      65
+Name: 23, dtype: object
+-------------------------------
+Day: 24
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)     239
+Hospitalized    239
+Cured             0
+Self Cured       87
+Dead            434
+Limbo             0
+Total Cured      87
+Name: 24, dtype: object
+-------------------------------
+Day: 25
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)     164
+Hospitalized    244
+Cured             0
+Self Cured      107
+Dead            484
+Limbo             0
+Total Cured     107
+Name: 25, dtype: object
+-------------------------------
+Day: 26
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)      87
+Hospitalized    247
+Cured             0
+Self Cured      131
+Dead            534
+Limbo             0
+Total Cured     131
+Name: 26, dtype: object
+-------------------------------
+Day: 27
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)      27
+Hospitalized    248
+Cured             0
+Self Cured      140
+Dead            584
+Limbo             0
+Total Cured     140
+Name: 27, dtype: object
+-------------------------------
+Day: 28
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)      16
+Hospitalized    246
+Cured             2
+Self Cured      151
+Dead            584
+Limbo             0
+Total Cured     153
+Name: 28, dtype: object
+-------------------------------
+Day: 29
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)      10
+Hospitalized    243
+Cured             5
+Self Cured      157
+Dead            584
+Limbo             0
+Total Cured     162
+Name: 29, dtype: object
+-------------------------------
+Day: 30
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       3
+Hospitalized    242
+Cured             6
+Self Cured      164
+Dead            584
+Limbo             0
+Total Cured     170
+Name: 30, dtype: object
+-------------------------------
+Day: 31
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    237
+Cured            11
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     178
+Name: 31, dtype: object
+-------------------------------
+Day: 32
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    229
+Cured            19
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     186
+Name: 32, dtype: object
+-------------------------------
+Day: 33
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    216
+Cured            32
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     199
+Name: 33, dtype: object
+-------------------------------
+Day: 34
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    195
+Cured            53
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     220
+Name: 34, dtype: object
+-------------------------------
+Day: 35
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    171
+Cured            77
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     244
+Name: 35, dtype: object
+-------------------------------
+Day: 36
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    151
+Cured            97
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     264
+Name: 36, dtype: object
+-------------------------------
+Day: 37
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized    106
+Cured           142
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     309
+Name: 37, dtype: object
+-------------------------------
+Day: 38
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized     65
+Cured           183
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     350
+Name: 38, dtype: object
+-------------------------------
+Day: 39
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized     40
+Cured           208
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     375
+Name: 39, dtype: object
+-------------------------------
+Day: 40
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized     17
+Cured           231
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     398
+Name: 40, dtype: object
+-------------------------------
+Day: 41
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      6
+Cured           242
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     409
+Name: 41, dtype: object
+-------------------------------
+Day: 42
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      2
+Cured           246
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     413
+Name: 42, dtype: object
+-------------------------------
+Day: 43
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      0
+Cured           248
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     415
+Name: 43, dtype: object
+-------------------------------
+Day: 44
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      0
+Cured           248
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     415
+Name: 44, dtype: object
+-------------------------------
+Day: 45
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      0
+Cured           248
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     415
+Name: 45, dtype: object
+-------------------------------
+Day: 46
+- - - - - - - - - - - - - - - - 
+Healthy           1
+Covid-19(+)       0
+Hospitalized      0
+Cured           248
+Self Cured      167
+Dead            584
+Limbo             0
+Total Cured     415
+Name: 46, dtype: object
